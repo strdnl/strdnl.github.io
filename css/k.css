@@ -1,0 +1,85 @@
+html,body,h1,h2,h3,h4,h5,h6,button {font-family: 'Courier Prime', monospace;
+}}
+.w3-sidebar {
+  z-index: 3;
+  width: 250px;
+  top: 43px;
+  bottom: 0;
+  height: inherit;
+}
+img {
+ 
+  padding: 0px;
+  width: 60px;
+ 
+  height:auto;
+  position: static;
+ centre: 0px;
+}
+img.large {
+ 
+  padding: 5px;
+  
+  width: 125px;
+  
+  height:auto;
+  position: relative;
+  centre: 0px;
+   border: 1px solid grey;
+ 
+}
+
+img.men {
+ 
+  padding: 2px;
+  width: 20px;
+ 
+  height:auto;
+  position: static;
+
+}
+
+footer {
+cursor:pointer;}
+
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 25%;
+
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+a {
+  text-decoration: none;
+
+ 
+}
+
+p {
+
+padding: 20px: 
+  text-align: justify;
+
+}
