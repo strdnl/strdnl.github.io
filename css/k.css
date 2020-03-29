@@ -24,9 +24,16 @@ img.large {
   
   height:auto;
   position: relative;
-  centre: 0px;
    border: 1px solid grey;
  
+}
+
+img.art {
+  padding: 5px;
+  width: 180px;
+  height:auto;
+  position: relative;
+   
 }
 
 img.men {
