@@ -10,30 +10,17 @@ html,body,h1,h2,h3,h4,h5,h6,button {font-family: 'Courier Prime', monospace;
 img {
  
   padding: 0px;
-  width: 60px;
+  width: 120px;
  
   height:auto;
   position: static;
- centre: 0px;
+
 }
 img.large {
  
   padding: 5px;
   
   width: 125px;
-  
-  height:auto;
-  position: relative;
-  centre: 0px;
-   border: 1px solid grey;
- 
-}
-
-img.art {
- 
-  padding: 5px;
-  
-  width: 60%;
   
   height:auto;
   position: relative;
